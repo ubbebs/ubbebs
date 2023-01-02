@@ -15,7 +15,8 @@
 <b>My recent projects:</b>
 <br>
 <br>
-Front: https://github.com/ubbebs/socialapp / Back: https://github.com/ubbebs/socialapp-b-end-prod / Live: https://cheerful-palmier-ca5f6f.netlify.app/
+SocialApp
+Front: https://github.com/ubbebs/socialapp / Back: https://github.com/ubbebs/socialapp-b-end-prod / Live: https://thriving-croissant-288c47.netlify.app/
 <br>
 Tech:
 <div align="left">
@@ -26,6 +27,7 @@ Tech:
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="20" height="20"/>
 </div>
 <br>
+WeatherApp
 Front: https://github.com/ubbebs/weatherapp / Live: https://cheerful-palmier-ca5f6f.netlify.app/
 <br>
 Tech:
@@ -36,10 +38,10 @@ Tech:
 <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="20" height="20"/> 
 </div>
 <br>
+LeagueQuiz
 Front: https://github.com/ubbebs/leaguequizapp / Live: https://coruscating-pothos-7af7b4.netlify.app/
 <br>
 Tech:
-<br>
 <div align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
