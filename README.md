@@ -16,7 +16,7 @@
 <br>
 <br>
 SocialApp
-Front: https://github.com/ubbebs/socialapp / Back: https://github.com/ubbebs/socialapp-b-end-prod / Live: https://thriving-croissant-288c47.netlify.app/
+Front: https://github.com/ubbebs/socialapp-prod / Back: https://github.com/ubbebs/socialapp-b-end-prod / Live: https://thriving-croissant-288c47.netlify.app/
 <br>
 Tech:
 <div align="left">
